@@ -1,1 +1,1 @@
-This folder contains the controllers
+This folder contains the controllers.
