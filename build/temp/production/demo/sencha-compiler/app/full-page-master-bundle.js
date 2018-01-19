@@ -1,2 +1,2 @@
 // @tag full-page
-// @require D:\senchatouchpachage\demo\app.js
+// @require D:\Users\c\git\Sencha-Touch-Demo\app.js
